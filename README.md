@@ -6,7 +6,7 @@
 <br/>
 </head>
 <body>
-<ul type="rect">
+<ul type="square">
 <li>
 <a href="">رزومه</a>
 </li>

@@ -8,11 +8,11 @@
 <body>
 <ul type="square">
 <li>
-<a href="">رزومه</a>
+<a href=" https://saramoharamee6880.github.io">رزومه</a>
 </li>
 <br/>
 <li>
-<a href="">SOP</a>
+<a href=" https://saramoharamee6880.github.io/انگیزه-نامه">SOP</a>
 </li>
 </ul>
 </body>

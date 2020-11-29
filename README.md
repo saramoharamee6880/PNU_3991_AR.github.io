@@ -7,13 +7,14 @@
 </head>
 <body>
 
-
+<ul>
+<li>
 <a href="https://saramoharamee6880.github.io">رزومه</a>
-
+</li>
 <br/>
-
+<li>
 <a href="https://saramoharamee6880github.io/Angizehname">SOP</a>
-
-
+</li>
+</ul>
 </body>
 </html>

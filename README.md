@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<ul>
+<ul type="square">
 <li>
 <a href="https://saramoharamee6880.github.io">رزومه</a>
 </li>

@@ -8,11 +8,11 @@
 <body>
 
 
-<a href=" https://saramoharamee6880.github.io">رزومه</a>
+<a href="#">رزومه</a>
 
 <br/>
 
-<a href=" https://saramoharamee6880.github.io/انگیزه-نامه">SOP</a>
+<a href="#">SOP</a>
 
 
 </body>

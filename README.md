@@ -16,7 +16,7 @@
 <a href="https://saramoharamee6880.github.io/Angizehname.html">SOP</a>
 </li>
 <li>
-<a href="http://new.tex">tex</a>
+<a href="new.tex">tex</a>
 </li>
 </ul>
 </body>

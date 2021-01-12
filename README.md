@@ -9,14 +9,14 @@
 
 <ul type="square">
 <li>
+<a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/slide.pdf">ارائه شفاهی</a>
+</li>
+<li>
 <a href="https://saramoharamee6880.github.io">رزومه</a>
 </li>
 <br/>
 <li>
 <a href="https://saramoharamee6880.github.io/Angizehname.html">SOP</a>
-</li>
-<li>
-<a href=" https://github.com/saramoharamee6880/PNU_3991_AR.github.io ">ارائه شفاهی</a>
 </li>
 
 <li>

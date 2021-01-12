@@ -5,7 +5,7 @@
 </h1>
 <br/>
 </head>
-<body>
+<body style="direction:rtl">
 
 <ul type="square">
 <li>

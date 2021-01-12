@@ -2,9 +2,7 @@
 <head>
 <h1 style="color:red">
 سارا محرمی
-  <style>
-   
-  </style>
+ 
 </h1>
 <br/>
 </head>

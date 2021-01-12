@@ -7,7 +7,7 @@
 </head>
 <body style="direction:rtl">
 
-<ul type="square">
+<ul style="direction:rtl" type="square">
 <li>
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/slide.pdf">ارائه شفاهی</a>
 </li>

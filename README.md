@@ -23,7 +23,7 @@
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/download-1.pdf">javascript</a>
 </li>
 <li>
-<a href="">ارائه شفاهی</a>
+<a href=" https://github.com/saramoharamee6880/PNU_3991_AR.github.io ">ارائه شفاهی</a>
 </li>
 </ul>
 </body>

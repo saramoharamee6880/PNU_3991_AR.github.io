@@ -15,6 +15,9 @@
 <li>
 <a href="https://saramoharamee6880.github.io/Angizehname.html">SOP</a>
 </li>
+<li>
+<a href=" https://github.com/saramoharamee6880/PNU_3991_AR.github.io ">ارائه شفاهی</a>
+</li>
 
 <li>
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/Ravesh.pdf ">لاتکس</a>
@@ -22,9 +25,7 @@
 <li>
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/download-1.pdf">javascript</a>
 </li>
-<li>
-<a href=" https://github.com/saramoharamee6880/PNU_3991_AR.github.io ">ارائه شفاهی</a>
-</li>
+
 </ul>
 </body>
 </html>

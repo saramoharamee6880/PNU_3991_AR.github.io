@@ -15,9 +15,10 @@
 <li>
 <a href="https://saramoharamee6880.github.io/Angizehname.html">SOP</a>
 </li>
-<li>
-<a href=" https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/download-1.pdf ">javascript certificate</a>
-</li>
+
+
+ 
+
 <li>
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/Ravesh.pdf ">لاتکس</a>
 </li>

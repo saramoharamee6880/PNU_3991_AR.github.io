@@ -2,6 +2,11 @@
 <head>
 <h1 style="color:red">
 سارا محرمی
+  <style>
+    li{
+    direction:rtl;
+    }
+  </style>
 </h1>
 <br/>
 </head>

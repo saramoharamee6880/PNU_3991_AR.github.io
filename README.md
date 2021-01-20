@@ -15,9 +15,7 @@
 <li style=" direction:rtl;" >
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/slide.pdf">ارائه شفاهی</a>
 </li>
-<li>
-<a href=" https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/طراحی واسط کاربر.pdf">طراحی واسط کاربر</a>
-</li>
+
 <li style=" direction:rtl;">
 <a href="https://saramoharamee6880.github.io">رزومه</a>
 </li>

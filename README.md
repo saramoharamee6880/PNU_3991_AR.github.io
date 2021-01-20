@@ -19,7 +19,7 @@
 <li style=" direction:rtl;">
 <a href="https://saramoharamee6880.github.io">رزومه</a>
 </li>
-<br/>
+
 <li style=" direction:rtl;">
 <a href="https://saramoharamee6880.github.io/Angizehname.html">SOP</a>
 </li>

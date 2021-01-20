@@ -10,7 +10,7 @@
 
 <ul style="direction:rtl" type="square">
 <li>
-<a href="">معرفی یک درس مشابه در دانشگاه دیگر</a>
+<a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/طراحی واسط کاربر.pdf">معرفی یک درس مشابه در دانشگاه دیگر</a>
 </li>
 <li style=" direction:rtl;" >
 <a href="https://github.com/saramoharamee6880/PNU_3991_AR.github.io/blob/gh-pages/slide.pdf">ارائه شفاهی</a>
